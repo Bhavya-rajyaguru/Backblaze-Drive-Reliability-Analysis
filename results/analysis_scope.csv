@@ -1,0 +1,4 @@
+drive_type,models,drive_days,failure_flags,exposure_share_percent
+HDD,51,115720549,4310,98.85175585495267
+SSD,19,1036266,0,0.8852076361371944
+Unknown,10,307923,0,0.26303650891013824

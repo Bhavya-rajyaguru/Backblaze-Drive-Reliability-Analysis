@@ -1,0 +1,7 @@
+topic,status,evidence_limit
+Drive role,Unresolved,HDD type does not establish boot or storage role.
+Workload,Unresolved,Capacity and drive-days do not measure read/write activity.
+Whole-fleet age adjustment,Not possible from uploaded summaries,Only one model and four vaults have baseline SMART readings. Raw units need verification.
+Clustering,Exploratory analysis completed,Eligibility and feature choices affect groups. Cluster labels do not establish reliability or cause.
+Capacity tests,Unadjusted comparisons completed,Poisson assumptions and dependent peer tests limit interpretation. Holm controls multiple testing under valid individual tests.
+Toshiba cohort,Relative raw-reading analysis completed,"Selected baseline survivors, missing follow-up and maintenance flags prevent a mechanical-failure or causal interpretation."

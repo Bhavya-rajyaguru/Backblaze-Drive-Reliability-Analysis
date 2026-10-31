@@ -1,0 +1,4 @@
+minimum_drive_days,models,selected_k,agreement_on_shared_models,minimum_seed_agreement
+50000,32,4,0.5410956992548352,1.0
+100000,28,2,1.0,1.0
+200000,26,3,0.5324614666043904,1.0
