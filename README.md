@@ -142,7 +142,7 @@ I learned to look beyond a single rate. Even when rankings stay the same, the re
 | `images/` | Five dashboard previews |
 | `reports/dashboard.pdf` | The five-page Power BI export |
 
-The raw daily files and large drive-level extracts are not included. Download the source data from Backblaze to run the full analysis. The interactive Power BI file is not included in this package.
+The raw daily files and large drive-level extracts are not included. Download the source data from Backblaze to run the full analysis. 
 
 ## Methods and reproducibility
 
@@ -311,3 +311,7 @@ These figures come from the files and rules used in this project. Backblaze’s 
 **Bhavya Rajyaguru** · MSc Business Analytics, Queen’s University Belfast – GIFT City campus
 
 Independent portfolio analysis. Not affiliated with or endorsed by Backblaze. Data source: Backblaze.
+
+[Download the Power BI report (.pbix)](Backblaze%20Drive%20Reliability%20and%20Capacity%20Analysis-2.pbix)
+
+Open this file in Power BI Desktop to explore the report.
