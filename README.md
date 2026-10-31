@@ -3,7 +3,7 @@
 **Which drive models need closer attention, and why?**
 
 **Python · Statistical analysis · Power BI · Business recommendations**  
-*An independent portfolio project by Bhavya Rajyaguru | 2025 Drive Stats data*
+An independent portfolio project by Bhavya Rajyaguru | 2025 Drive Stats data
 
 [Dashboard preview](#dashboard-preview) · [Key findings](#key-findings) · [Recommendations](#business-recommendations) · [Methods and code](#methods-and-reproducibility) · [View dashboard PDF](reports/dashboard.pdf)
 
