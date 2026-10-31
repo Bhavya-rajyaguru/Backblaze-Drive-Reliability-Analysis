@@ -315,3 +315,9 @@ Independent portfolio analysis. Not affiliated with or endorsed by Backblaze. Da
 [Download the Power BI report (.pbix)](Backblaze%20Drive%20Reliability%20and%20Capacity%20Analysis-2.pbix)
 
 Open this file in Power BI Desktop to explore the report.
+
+## Contact
+
+**Bhavya Rajyaguru**
+
+[LinkedIn](https://www.linkedin.com/in/rajyaguru-bhavya) · [Email](mailto:bhavyarajyaguru01@gmail.com)
